@@ -20,11 +20,6 @@ To complete the material of these notebooks, you can access the presentation on 
 - Or you can go and watch our [Youtube channel](https://www.youtube.com/channel/UCP57oQnScFnKMcFkysWSzMA) with our workshops and many more videos
 - And we can keep in touch via [Twitter](https://twitter.com/datacraft_paris?lang=fr)
 
-# datacraft representatives
-**Isabelle Hilali**, Founder and CEO at datacraft-paris - [LinkedIn](https://www.linkedin.com/in/isabelle-hilali-82b5111/) - Email: isabelle.hilali@datacraft.paris
-
-**Xavier Lioneton**, COO and Lead Data Scientist at datacraft-paris - [LinkedIn](https://www.linkedin.com/in/xavier-lioneton/) - Email: xavier.lioneton@datacraft.paris
-
 <p align="center">
 <img width="250" alt="datacraft" src="https://github.com/datacraft-paris/Illustration/blob/master/logos/datacraft_logo_fluo.png">
 </p>
